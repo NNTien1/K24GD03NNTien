@@ -1,0 +1,2 @@
+# K24GD03NNTien
+K24GD03_GameProgrammingLanguage
